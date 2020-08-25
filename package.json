@@ -1,0 +1,23 @@
+{
+  "name": "asincrnismojavascript",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000s\u0000i\u0000n\u0000c\u0000r\u0000o\u0000n\u0000i\u0000s\u0000m\u0000o\u0000j\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisfbello/asincronismojs.git"
+  },
+  "author": "LuisBello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisfbello/asincronismojs/issues"
+  },
+  "homepage": "https://github.com/luisfbello/asincronismojs#readme",
+  "dependencies": {
+    "save": "^2.4.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
