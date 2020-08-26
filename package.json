@@ -4,7 +4,12 @@
   "description": "��#\u0000 \u0000a\u0000s\u0000i\u0000n\u0000c\u0000r\u0000o\u0000n\u0000i\u0000s\u0000m\u0000o\u0000j\u0000s\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
-    "callback": "node src/callback/index.js"
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js",
+    "promise": "node src/promise/index.js",
+    "promise:challenge": "node src/promise/challenge.js",
+    "async": "node src/async/index.js",
+    "async:challenge": "node src/async/challenge.js"
   },
   "repository": {
     "type": "git",
